@@ -26,7 +26,6 @@ h3 {
     gap: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-
 }
 
 .rahmen {
@@ -35,6 +34,7 @@ h3 {
     margin: 0.5rem;
     padding: 2rem;
     border-radius: 25px;
+    height: 450px;
 }
 
 .untertitel {
