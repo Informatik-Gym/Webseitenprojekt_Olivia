@@ -21,11 +21,13 @@ h3 {
 }
 
 .layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+
 }
-
-
 
 .rahmen {
     border: 2px solid white;
@@ -46,4 +48,10 @@ h3 {
 
 .nebeneinander section {
     flex: 1;
+}
+
+.bild-text {
+    display: flex;
+    align-items: center;
+    gap: 0rem;
 }
