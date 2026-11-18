@@ -24,3 +24,5 @@ Die Website besteht aus einer einzigen Seite, die in mehrere klar getrennte Absc
 - Woche 4: Planung fertigstellen und abgeben. Website gestalten mit CSS.
 - Woche 5: Kästchen und Animationen einfügen
 - Woche 6: Dokumentation fertigstellen. Abgeben.
+
+# Quellen:
