@@ -32,4 +32,4 @@ https://chatgpt.com/share/6afd9bc3-197c-83ed-9beb-3c135dab5202
 ## Zeilenumbruch:
 https://chatgpt.com/share/6afda11a-d5a0-83eb-8c0b-ac54d4e2abb5
 
-Farben weichen von Planung ab; mit Herr Jackman abgesprochen!
+### Farben weichen von Planung ab; mit Herr Jackman abgesprochen!
