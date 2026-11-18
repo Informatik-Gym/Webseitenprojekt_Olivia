@@ -21,16 +21,13 @@ h3 {
 }
 
 .layout {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
     display: grid;
+    gap: 20px;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
 .rahmen {
     border: 2px solid white;
-    backround-color: white;
     margin: 0.5rem;
     padding: 2rem;
     border-radius: 25px;
