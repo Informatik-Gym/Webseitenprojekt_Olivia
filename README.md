@@ -29,4 +29,4 @@ Die Website besteht aus einer einzigen Seite, die in mehrere klar getrennte Absc
 ## Kästen anordnung:
 https://chatgpt.com/share/6afd9bc3-197c-83ed-9beb-3c135dab5202
 
-
+Farben weichen von Planung ab; mit Herr Jackman abgesprochen!
