@@ -26,3 +26,7 @@ Die Website besteht aus einer einzigen Seite, die in mehrere klar getrennte Absc
 - Woche 6: Dokumentation fertigstellen. Abgeben.
 
 # Quellen:
+## Kästen anordnung:
+https://chatgpt.com/share/6afd9bc3-197c-83ed-9beb-3c135dab5202
+
+
